@@ -8,7 +8,7 @@ import org.mockito.MockitoAnnotations;
 import java.util.Map;
 
 /**
- * A cleaner way to implement mock is using JunitExtension
+ * A much cleaner way to implement mock is using JunitExtension then using this AnnotationMocksTest
  */
 public class AnnotationMocksTest {
     /**
